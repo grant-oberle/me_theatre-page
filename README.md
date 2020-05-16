@@ -4,7 +4,7 @@ Page to demonstrate my interests and experience in theatre
 
 ## Install the dependencies
 ```bash
-yarn
+yarn 
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
